@@ -75,7 +75,7 @@
     "lodash": "^4.17.4",
     "minilog": "^3.1.0",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "require-relative": "^0.8.7",
     "serve-static": "^1.13.1",
     "source-list-map": "^2.0.0",
